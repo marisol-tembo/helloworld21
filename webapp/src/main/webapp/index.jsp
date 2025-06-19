@@ -51,10 +51,6 @@
         <h1>mi Cielo</h1>
         <p>
             Thank you so much for everything.<br>
-            For all the things that you do for me<br>
-            and for everything you give.<br><br>
-            You are an amazing husband<br>
-            and the best father in the world.
         </p>
         <div class="heart">❤️</div>
     </div>
