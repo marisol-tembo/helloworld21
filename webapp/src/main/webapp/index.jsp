@@ -50,7 +50,7 @@
         <div class="heart">❤️</div>
         <h1>mi Cielo</h1>
         <p>
-            Thank you so much for everything.<br>
+            SIN PROBLEMAS.<br>
         </p>
         <div class="heart">❤️</div>
     </div>
