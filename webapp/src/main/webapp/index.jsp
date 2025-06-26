@@ -50,7 +50,7 @@
         <div class="heart">❤️</div>
         <h1>mi Cielo</h1>
         <p>
-            LOVE YOU CORAZONES!.<br>
+            LOVE YOU, auntie tengo hambre!.<br>
         </p>
         <div class="heart">❤️</div>
     </div>
